@@ -44,7 +44,7 @@ a {
 .pre-title {
     text-transform: uppercase;
     letter-spacing: 3px;
-    color: rgb(128, 209, 132);
+    color: black;
     position: relative;
     padding-left: 40px;
     width: fit-content;
@@ -137,7 +137,7 @@ section {
 }
 
 #about {
-    background-color: rgb(128, 209, 132);
+    background-color: grey;
     padding: 6rem 0;
 }
 
@@ -154,7 +154,7 @@ section {
 }
 
 .about {
-    padding: 3rem 2rem;
+    padding: 3rem 2rem
     text-align: center;
     background: black;
     border-radius: 0.7rem;
@@ -277,14 +277,14 @@ section {
 }
 
 .btn-submit:hover {
-    background-color: rgb(128, 209, 132);
+    background-color: grey;
     color: black;
 }
 
 footer {
     margin-bottom: 0;
     padding: 4rem 0;
-    background: rgb(128, 209, 132);
+    background: gray;
     text-align: center;
 }
 
