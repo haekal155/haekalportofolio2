@@ -137,7 +137,7 @@ section {
 }
 
 #about {
-    background-color: grey;
+    background-color: gray;
     padding: 6rem 0;
 }
 
@@ -154,7 +154,7 @@ section {
 }
 
 .about {
-    padding: 3rem 2rem
+    padding: 3rem 2rem;
     text-align: center;
     background: black;
     border-radius: 0.7rem;
@@ -277,7 +277,7 @@ section {
 }
 
 .btn-submit:hover {
-    background-color: grey;
+    background-color: gray;
     color: black;
 }
 
